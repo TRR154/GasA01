@@ -1,0 +1,3 @@
+algebraic = true
+limits/gap = 1e-4
+minCompSum = true

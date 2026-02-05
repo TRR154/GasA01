@@ -1,0 +1,6 @@
+copy OPTtest.. into the folder containing the GL instances
+manually generate new folder "modifiziert" in the folder containing the GL instances
+copy a list named optimal.test into the folder containing the GL instances
+navigate to the folder containing the GL instances in the terminal
+execute python3 Opttestscript.py optimal.test GL582/
+

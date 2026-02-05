@@ -1,0 +1,4 @@
+algebraic = true
+linearMixing = true
+limits/gap = 1e-4
+# nlpi/ipopt/print_level = 5

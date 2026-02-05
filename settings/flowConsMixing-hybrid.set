@@ -1,0 +1,7 @@
+algebraic = true
+linearMixing = true
+flowConsMixing = true
+limits/gap = 1e-4
+addComponentCuts = true
+preprocessPassiveComponents = true
+aggregateParallelFlowdirVars = true

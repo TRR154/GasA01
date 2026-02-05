@@ -1,0 +1,6 @@
+algebraic = true
+linearMixing = true
+flowConsMixingNode = true
+limits/gap = 1e-4
+# preprocessPassiveComponents = true
+# aggregateParallelFlowdirVars = true

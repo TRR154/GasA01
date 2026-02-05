@@ -1,0 +1,7 @@
+algebraic = true
+linearMixing = true
+minCompSum = true
+limits/gap = 1e-4
+preprocessPassiveComponents = true
+aggregateParallelFlowdirVars = true
+# nlpi/ipopt/print_level = 5

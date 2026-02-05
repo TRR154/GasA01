@@ -1,0 +1,7 @@
+algebraic = true
+linearMixing = true
+nodeMu = true
+minCompSum = true
+limits/gap = 1e-4
+preprocessPassiveComponents = true
+aggregateParallelFlowdirVars = true
